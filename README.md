@@ -34,6 +34,5 @@ while True:
     fix_bug()
   except NotEnoughEnergyError:
     sleep()
-    drink_cofee()
     continue
 ```
