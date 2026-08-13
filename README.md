@@ -25,14 +25,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abamka2004&show_icons=true&theme=dark" alt="abamka2004's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abamka2004&layout=compact&theme=dark" alt="Top Langs" />
 </p>
-
----
-
-```python
-while True:
-  try:
-    fix_bug()
-  except NotEnoughEnergyError:
-    sleep()
-    continue
-```
